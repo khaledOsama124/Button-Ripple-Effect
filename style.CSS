@@ -7,3 +7,15 @@ body {
     background-color: aliceblue;
     font-family:sans-serif;
 }
+
+.btn {
+    background-color: pink;
+    padding: 20px 40px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0,0.3);
+    text-decoration: None;
+    color:black;
+    position: relative;
+    overflow: hidden;
+
+}
