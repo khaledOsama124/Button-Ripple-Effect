@@ -12,7 +12,7 @@ body {
     background-color: pink;
     padding: 20px 40px;
     border-radius: 5px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0,0.3);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     text-decoration: None;
     color:black;
     position: relative;
@@ -23,7 +23,7 @@ body {
 
 .btn span {
     position: relative;
-    z-index:1;
+    z-index: 1;
 }
 
 
@@ -34,8 +34,8 @@ body {
     background-color: orangered;
     width: 0px;
     height: 0px;
-    left:var(--PosX);
-    Top:var(--PosY);
+    left:var(--xPos);
+    Top:var(--yPos);
     transform: translate(-50%,-50%);
     border-radius: 50%;
     transition: width 0.5s, height 0.5s;
