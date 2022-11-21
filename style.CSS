@@ -36,7 +36,8 @@ body {
     height: 0px;
     left:var(--PosX);
     Top:var(--PosY);
-    
+    transform: translate(-50%,-50%);
+
    
 
 
