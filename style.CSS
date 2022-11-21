@@ -32,8 +32,9 @@ body {
     content:"";
     position:absolute;
     background-color: orangered;
-    width:0;
-    height:0;
+    width: 0px;
+    height: 0px;
+   
 
 
 }
